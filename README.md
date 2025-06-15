@@ -37,5 +37,5 @@ cnpm install
 ```bash
 cnpm start
 ```
-启动成功后，可通过http://localhost:8000访问。
+启动成功后，可通过 http://localhost:8000 访问。
 
