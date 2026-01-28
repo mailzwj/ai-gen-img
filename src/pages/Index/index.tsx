@@ -26,7 +26,6 @@ export default function HomePage() {
         headers: {
           'Authorization': `Bearer ${token}`,
           'Content-Type': 'application/json',
-          'X-ModelScope-Async-Mode': 'true',
         },
         data,
       });
